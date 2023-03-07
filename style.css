@@ -1,1 +1,3 @@
-ul {list-style: none;}
+ul{list-style-type:none;}
+li{float: left;}
+li{padding: 10px;}
