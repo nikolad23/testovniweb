@@ -1,3 +1,15 @@
-ul{list-style-type:none;}
-li{float: left;}
-li{padding: 10px;}
+li{list-style-type:none;
+float: left;
+overflow: hidden;
+padding: 10px;
+margin: 0px;}
+
+li{background-color: rgb(46, 39, 41);}
+a:link{color: rgb(207, 32, 32);}
+a:visited{color: rgb(146, 141, 141);}
+a:hover{color: rgb(45, 12, 107);}
+a{text-decoration: none;
+font;}
+.dropdown-content{display: none;}
+li:hover{background-color: azure;
+color: black;}
